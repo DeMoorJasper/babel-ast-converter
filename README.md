@@ -1,4 +1,5 @@
 [![npm version](https://badge.fury.io/js/babel-ast-converter.svg)](https://badge.fury.io/js/babel-ast-converter)
+[![Travis](https://travis-ci.org/DeMoorJasper/babel-ast-converter.svg?branch=master)](https://travis-ci.org/DeMoorJasper/babel-ast-converter)
 
 # Babel AST converter
 
