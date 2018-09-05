@@ -1,0 +1,12 @@
+{
+  "name": "babel-ast-converter",
+  "version": "1.0.0",
+  "main": "./src/converter.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  },
+  "dependencies": {
+    "@babel/traverse": "^7.0.0"
+  }
+}
