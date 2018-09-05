@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/babel-ast-converter.svg)](https://badge.fury.io/js/babel-ast-converter)
+
 # Babel AST converter
 
 Converts between Babel 6 and 7 ASTs
