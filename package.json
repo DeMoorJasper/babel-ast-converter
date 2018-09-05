@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "main": "./src/converter.js",
   "license": "MIT",
+  "author": "Jasper De Moor",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/DeMoorJasper/babel-ast-converter.git"
+  },
   "scripts": {
     "test": "jest ./tests"
   },
