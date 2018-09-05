@@ -1,0 +1,8 @@
+node_modules
+yarn.lock
+
+*.log
+*.lock
+
+.travis.yml
+tests
